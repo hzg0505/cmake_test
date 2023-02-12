@@ -1,0 +1,5 @@
+/Users/hzg/test/cmake/shiyan3/build/CMakeFiles/edit_cache.dir
+/Users/hzg/test/cmake/shiyan3/build/CMakeFiles/rebuild_cache.dir
+/Users/hzg/test/cmake/shiyan3/build/bin/CMakeFiles/hello.dir
+/Users/hzg/test/cmake/shiyan3/build/bin/CMakeFiles/edit_cache.dir
+/Users/hzg/test/cmake/shiyan3/build/bin/CMakeFiles/rebuild_cache.dir
